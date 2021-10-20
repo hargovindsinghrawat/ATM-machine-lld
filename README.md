@@ -16,4 +16,3 @@ This project is to make an Automated Teller Machine with user's account and pass
 * we are able to withdraw funds
 * also we can deposit the funds
  
-"# ATM-machine-lld" 
